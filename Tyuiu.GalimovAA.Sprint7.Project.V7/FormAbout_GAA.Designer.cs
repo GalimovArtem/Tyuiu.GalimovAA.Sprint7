@@ -95,7 +95,7 @@ namespace Tyuiu.GalimovAA.Sprint7.Project.V7
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "FormAbout_GAA";
-            Text = "О программе - Галимов А.А.";
+            Text = "О программе - Галимов А.А. ПКТб-24-1";
             ((System.ComponentModel.ISupportInitialize)pictureBoxIcon_GAA).EndInit();
             ResumeLayout(false);
             PerformLayout();
